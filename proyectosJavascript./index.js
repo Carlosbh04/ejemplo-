@@ -1,12 +1,12 @@
-function suma( operacion, op1 , op2){
+function suma( operacion, op1 , op2 ,op3){
     operacion == "sum"; {
-        return op1 + op2
+        return op1 + op2 + op3
     }
 
    }
 
 
-// console.log(suma(suma, 10,8));
+// console.log(suma(suma, 10,8,9));
 
 
 
