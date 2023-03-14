@@ -1,3 +1,13 @@
+function suma( operacion, op1 , op2 ,op3){
+    operacion == "sum"; {
+        return op1 + op2 + op3
+    }
+
+   }
+
+
+// console.log(suma(suma, 10,8,9));
+
 
 
 function resta (operacion, op1 , op2){
